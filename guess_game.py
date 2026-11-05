@@ -1,5 +1,6 @@
 import random
 
+# this is a python program for gussing the number game 
 top_of_range = input("Type a number: ")
 
 if top_of_range.isdigit():
